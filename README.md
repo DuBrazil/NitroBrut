@@ -10,7 +10,7 @@
 -Now launch discord + NitroBrut.
 
 
--Put the NitroBrut code in Main.py and wait for a good code.
+-Put the NitroBrut code on Main.py and wait for a good code.
 
 
 -When u have the code, u just have ton copy the code and claim him.
