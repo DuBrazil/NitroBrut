@@ -10,7 +10,7 @@
 -Now launch discord + NitroBrut and wait for the code
 
 
--When u have the code, u just have ton copy the code and clear him.
+-When u have the code, u just have ton copy the code and claim him.
 
 ![image](https://github.com/DuBrazil/NitroBrut/assets/138258114/d5516fa8-c1a1-4721-bb55-55bb754e2160)
 
