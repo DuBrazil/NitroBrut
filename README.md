@@ -7,7 +7,10 @@
 -Install "NitroBrut"
 
 
--Now launch discord + NitroBrut + Main and wait the code to put it in main.py
+-Now launch discord + NitroBrut
+
+
+Wait the code to put in Main.py
 
 
 -When u have the code, u just have ton copy the code and claim him.
