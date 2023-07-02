@@ -7,7 +7,7 @@
 -Install "NitroBrut"
 
 
--Now launch discord and the NitroBrut and wait for the code
+-Now launch discord + NitroBrut and wait for the code
 
 
 -When u have the code, u just have ton copy the code and clear him.
